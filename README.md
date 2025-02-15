@@ -1,2 +1,3 @@
-# Kotlin-hello-world
-This is my first Kotlin "Hello World" repository
+fun main() {
+println ("Hello World")
+}
